@@ -1,0 +1,22 @@
+what is cloudtrail ?
+
+
+CloudTrail enables auditing, security monitoring, and operational troubleshooting by tracking user activity and API usage. CloudTrail logs, continuously monitors, and retains account activity related to actions across your AWS infrastructure, giving you control over storage, analysis, and remediation actions.
+
+CloudTrail vs CloudWatch?
+
+CloudWatch is a monitoring service for AWS resources and applications. CloudTrail is a web service that records API activity in your AWS account. Monitoring Tool. CloudWatch monitors applications and infrastructure performance in the AWS environment. CloudTrail monitors actions in the AWS environment.
+
+cloud trail usage ? 
+
+You can use CloudTrail to view, search, download, archive, analyze, and respond to account activity across your AWS infrastructure. You can identify who or what took which action, what resources were acted upon, when the event occurred, and other details to help you analyze and respond to activity in your AWS account.
+
+How does CloudTrail work?
+
+
+CloudTrail captures actions made directly by the user or on behalf of the user by an AWS service. For example, an AWS CloudFormation CreateStack call can result in additional API calls to Amazon EC2, Amazon RDS, Amazon EBS, or other services as required by the AWS CloudFormation template.
+
+
+
+
+
